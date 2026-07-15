@@ -1,1 +1,1 @@
-# money-log-privacy
+# MOA-privacy
